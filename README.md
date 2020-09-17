@@ -11,4 +11,5 @@ I'm interested in:
   [WMs](https://en.wikipedia.org/wiki/Tiling_window_manager).
 - Cryptography & privacy: [OpenPGP](https://www.openpgp.org), [GnuPG](https://gnupg.org),
   [pass](https://www.passwordstore.org).
+- Mechanical keyboards & [qmk](https://qmk.fm).
 - Any many other high-end technology stuffs...
