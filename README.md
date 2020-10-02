@@ -1,4 +1,4 @@
-### Hi, it's [Ethan](https://ethan605.github.io) 👋
+### Hi, it's [Ethan](https://ethanify.me) 👋
 
 Software engineer, Team player, Technical supporter and Mentor.
 
