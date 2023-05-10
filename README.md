@@ -2,8 +2,9 @@
 
 “Passionate about creating awesome products that help plenty of people improve their lives.”
 
-- 10+ years of experience in the software industry, mostly tech start-ups.
+- 11+ years of experience in the software industry, mostly tech start-ups.
 - Speaking [Elixir](https://elixir-lang.org), [Python](https://www.python.org), [Ruby on Rails](https://rubyonrails.org/) & [TypeScript](https://www.typescriptlang.org).
+- Back-end focused with experience in front-end technologies.
 
 I'm interested in:
 
