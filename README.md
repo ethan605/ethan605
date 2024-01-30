@@ -3,7 +3,7 @@
 “Passionate about creating awesome products that help plenty of people improve their lives.”
 
 - 12+ years of experience in the software industry, mostly tech start-ups.
-- Speaking [Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [Elixir](https://elixir-lang.org) & [Ruby on Rails](https://rubyonrails.org/).
+- Speaking Python, TypeScript, [Rust](https://github.com/xkpasswd/xkpasswd-rs), [Go](https://github.com/ethan605/aws-vpn-client) and C++.
 - Back-end focused with experience in front-end technologies.
 
 I'm interested in:
