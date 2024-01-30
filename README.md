@@ -8,7 +8,6 @@
 
 I'm interested in:
 
-- [Go](https://github.com/ethan605/aws-vpn-client), [Rust & WebAssembly](https://github.com/xkpasswd/xkpasswd-rs) and C++.
 - UNIX & command-line interfaces: [Arch Linux](https://github.com/ethan605/arch-pkgs), [Terminal emulator, Zsh & Neovim](https://github.com/ethan605/dotfiles).
 - Cryptography & privacy: [OpenPGP, GnuPG](https://keybase.io/ethan605) & [pass](https://www.passwordstore.org).
 - Mechanical keyboards & [qmk](https://github.com/qmk/qmk_firmware/blob/master/keyboards/kbdfans/kbd75/keymaps/ethan605/keymap.c).
