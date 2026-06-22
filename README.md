@@ -2,7 +2,7 @@
 
 “Passionate about creating awesome products that help plenty of people improve their lives.”
 
-- 13+ years of experience in the software industry, mostly in tech start-ups.
+- 14+ years of experience in the software industry, mostly in tech start-ups.
 - Speaking Python, TypeScript, [Rust](https://github.com/xkpasswd/xkpasswd-rs), [Go](https://github.com/ethan605/aws-vpn-client) and C++.
 - Back-end focused with experience in front-end technologies.
 
